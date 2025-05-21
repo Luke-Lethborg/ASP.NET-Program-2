@@ -26,3 +26,9 @@ c:\Users\luke_\OneDrive\Desktop\Dev\ASP_Net\Program02\GameStore.api\obj\Debug\ne
 c:\Users\luke_\OneDrive\Desktop\Dev\ASP_Net\Program02\GameStore.api\obj\Debug\net9.0\GameStore.api.pdb
 c:\Users\luke_\OneDrive\Desktop\Dev\ASP_Net\Program02\GameStore.api\obj\Debug\net9.0\GameStore.api.genruntimeconfig.cache
 c:\Users\luke_\OneDrive\Desktop\Dev\ASP_Net\Program02\GameStore.api\obj\Debug\net9.0\ref\GameStore.api.dll
+C:\Users\luke_\OneDrive\Desktop\Dev\ASP_Net\Program02\GameStore.api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\luke_\OneDrive\Desktop\Dev\ASP_Net\Program02\GameStore.api\bin\Debug\net9.0\MinimalApis.Extensions.dll
+C:\Users\luke_\OneDrive\Desktop\Dev\ASP_Net\Program02\GameStore.api\bin\Debug\net9.0\MiniValidation.dll
+C:\Users\luke_\OneDrive\Desktop\Dev\ASP_Net\Program02\GameStore.api\obj\Debug\net9.0\GameStore.api.csproj.AssemblyReference.cache
+C:\Users\luke_\OneDrive\Desktop\Dev\ASP_Net\Program02\GameStore.api\obj\Debug\net9.0\GameStore.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luke_\OneDrive\Desktop\Dev\ASP_Net\Program02\GameStore.api\obj\Debug\net9.0\GameStor.41DC94ED.Up2Date
